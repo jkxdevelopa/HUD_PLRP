@@ -17,3 +17,5 @@ Złomuś#6969
 jkx.#1069
 
 PS. AllOn sprzedaje HUD z backdoorem (Info od jego kolegi, jebać cie kurwo htfu)
+
+https://github.com/zlomus tutaj też kolega coś wrzucać będzie :)
