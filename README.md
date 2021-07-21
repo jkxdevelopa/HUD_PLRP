@@ -15,3 +15,5 @@ discord.gg/playliferp
 Wszelkie problemy zgłoś do nas na pw!
 Złomuś#6969
 jkx.#1069
+
+PS. AllOn sprzedaje HUD z backdoorem (Info od jego kolegi, jebać cie kurwo htfu)
