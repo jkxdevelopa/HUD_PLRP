@@ -3,7 +3,7 @@ HUD copy from WyspaRP servers.
 
 Informacje:
 1. HUD jest zrobiony pod export'a odmiana LPM!! (Jeżeli jesteś zjebem i nie umiesz go dodać NAPISZ NA KTÓRYŚ DC NIŻEJ)
-2. Made by Złomuś#6969 und jkx.#1069 -> wiele godzin poprawek, udoskonaleń aby działał poprawnie.
+2. Made by Złomuś#6969 und jkx#0001 -> wiele godzin poprawek, udoskonaleń aby działał poprawnie.
 3. Udostępniamy go na czysto czyt. brak zakodowań etc.
 4. Serdecznie pozdrawiamy elfa, mamy nadzieję że w końcu nie będziesz się musiał obawiać leaków nowych rzeczy ;]
 5. Jebać AllOn'a i inne zazdrosne dzieci które musiały wbijać do nas bo samemu by tego nie zrobiły.
